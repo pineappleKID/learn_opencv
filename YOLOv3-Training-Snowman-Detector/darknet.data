@@ -1,0 +1,6 @@
+classes = 1
+train  = /home/yuanyuan/learn_opencv/YOLOv3-Training-Snowman-Detector/snowman_train.txt
+valid  = /home/yuanyuan/learn_opencv/YOLOv3-Training-Snowman-Detector/snowman_test.txt
+names = /home/yuanyuan/learn_opencv/YOLOv3-Training-Snowman-Detector/classes.names
+backup = /home/yuanyuan/learn_opencv/YOLOv3-Training-Snowman-Detector/weights/
+
